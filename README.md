@@ -1,1 +1,1 @@
-# io.github.hqktech
+Hosting for shit.
