@@ -1,1 +1,1 @@
-Hosting for shit.
+Provides the services others afraid to provide.
